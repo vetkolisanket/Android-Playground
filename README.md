@@ -2,3 +2,4 @@
 
 ### TODOs
 - [ ] Add theme
+- [ ] Add caching framework
