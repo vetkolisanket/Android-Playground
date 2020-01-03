@@ -26,6 +26,13 @@
             android:text="@string/caching_framework"
             />
 
+        <Button
+                android:id="@+id/btnSearchAdapter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Search Adapter"
+                />
+
     </LinearLayout>
 
 </ScrollView>
